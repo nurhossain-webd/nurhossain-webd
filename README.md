@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Md.%20Nur%20Hossain%20Riyad&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Master's%20Student%20in%20Communication%20Systems%20and%20Networks&descAlignY=58&descAlign=50" width="100%" />
+  <img src="./banner.png" alt="Md. Nur Hossain Riyad Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Md. Nur Hossain Riyad</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Nur+Hossain+Riyad" alt="Typing SVG" />
+</p>
 <h3 align="center">Master’s Student in Communication Systems and Networks | Frontend Developer</h3>
 
 <p align="center">
