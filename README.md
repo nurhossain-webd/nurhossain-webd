@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner2.png" alt="Md. Nur Hossain Riyad Banner" width="100%" />
+  <img src="./banner2.PNG" alt="Md. Nur Hossain Riyad Banner" width="100%" />
 </p>
 
 <p align="center">
