@@ -50,20 +50,11 @@ I am a Master's student in Communication Systems and Networks with a strong inte
   </a>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurhossain-webd&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurhossain-webd&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhossain-webd&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
-
 ## 🚀 Featured Projects
+
+### 🌿 KeenKeeper
+A modern friendship tracker web app built with Next.js where users can manage meaningful relationships, view friend details, log interactions like Call, Text, and Video, explore a searchable and filterable timeline, and analyze friendship activity with visual charts.  
+🔗 Live Site: https://keep-keen-project-7-alpha.vercel.app/
 
 ### 📚 Book Vibe
 A modern book-related web project built with React that uses routing and Context API to manage data more efficiently and reduce prop drilling.  
@@ -78,6 +69,20 @@ A GitHub issue tracking interface where users can log in, browse issues by categ
 🔗 Live Site: https://github-issues-tracker-by-nur.netlify.app/
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nurhossain-webd&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurhossain-webd&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhossain-webd&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+---
+
 
 <p align="center">
   Thanks for visiting my profile! ⭐
